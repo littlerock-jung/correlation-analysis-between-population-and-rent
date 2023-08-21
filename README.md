@@ -1,11 +1,12 @@
-# Correlation analysis between population and average rent in Berlin between 2012 and 2022
+# Correlation analysis between population and average rent in Berlin between 2012 and 2022\n
 
 ## Research Question
-To what extent does the population of Berlin correlate with its average rent between the years 2012 and 2022?
+To what extent does the population of Berlin correlate with its average rent between the years 2012 and 2022?\n
 
 ## Region and Domain
-- Region: Berlin, Germany
+- Region: Berlin, Germany\n
 - Domain: Real estate
+
 
 ## Data Sources
 - [Average rent price of residential property in selected cities in Germany from 2013 to 2022](https://www.statista.com/statistics/801560/average-rent-price-of-residential-property-in-germany-by-city/)
