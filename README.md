@@ -1,5 +1,5 @@
 # Correlation analysis between population and average rent in Berlin between 2012 and 2022
-\n
+
 ## Research Question
 To what extent does the population of Berlin correlate with its average rent between the years 2012 and 2022?
 
